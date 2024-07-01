@@ -1,0 +1,57 @@
+﻿Marker,Site,Niskin,Sample,Sample.replicate,Sample name,File.name,Lat,Long,Depth,Altitude,Volume,CTD/ROV,Gel,MiniSeq reads,Perc.coral
+28S,Bright Bank,1,Bright-85-Swiftia,1,SH18291-meso-octo,trimmed.1368.01.SH18291.meso.octo_S1_L001_R1_001.fastq.gz,27.90063,-93.27033,85,0,0.98,ROV,Off-target bands,11118,58.28
+28S,Bright Bank,2,Bright-85-Swiftia,2,SH18292-meso-octo,trimmed.1368.02.SH18292.meso.octo_S2_L001_R1_001.fastq.gz,27.90063,-93.27033,85,0,1.02,ROV,Off-target bands,7631,13.53
+28S,Bright Bank,3,Bright-85-Swiftia,3,SH18293-meso-octo,trimmed.1368.03.SH18293.meso.octo_S3_L001_R1_001.fastq.gz,27.90063,-93.27033,85,0,0.9,ROV,Off-target bands,5953,25.58
+28S,Bright Bank,4,Bright-85-Swiftia,4,SH18294-meso-octo,trimmed.1368.04.SH18294.meso.octo_S4_L001_R1_001.fastq.gz,27.90063,-93.27033,85,0,1,ROV,Off-target bands,6761,64.06
+28S,Bright Bank,5,Bright-84-Background,1,SH18295-meso-octo,trimmed.1368.05.SH18295.meso.octo_S5_L001_R1_001.fastq.gz,27.90052,-93.27035,84,0,1,ROV,Off-target bands,5983,51.07
+28S,Bright Bank,6,Bright-84-Background,2,SH18296-meso-octo,trimmed.1368.06.SH18296.meso.octo_S6_L001_R1_001.fastq.gz,27.90052,-93.27035,84,0,0.78,ROV,One band,7666,98.98
+28S,Bright Bank,7,Bright-84-Background,3,SH18297-meso-octo,trimmed.1368.07.SH18297.meso.octo_S7_L001_R1_001.fastq.gz,27.90052,-93.27035,84,0,1,ROV,Off-target bands,5816,86.73
+28S,Bright Bank,1,Bright-CTD-1.4,1,SH18299-meso-octo,trimmed.1368.08.SH18299.meso.octo_S8_L001_R1_001.fastq.gz,27.9007,-93.27026667,83.6,1.4,3.14,CTD,Off-target bands,15372,19
+28S,Bright Bank,2,Bright-CTD-1.4,2,SH18300-meso-octo,trimmed.1368.09.SH18300.meso.octo_S9_L001_R1_001.fastq.gz,27.9007,-93.27026667,83.6,1.4,3.32,CTD,Off-target bands,15517,19.58
+28S,Bright Bank,3,Bright-CTD-1.4,3,SH18301-meso-octo,trimmed.1368.10.SH18301.meso.octo_S10_L001_R1_001.fastq.gz,27.9007,-93.27026667,83.6,1.4,3.36,CTD,Off-target bands,12612,4.87
+28S,Bright Bank,4,Bright-CTD-5.8,1,SH18302-meso-octo,trimmed.1368.11.SH18302.meso.octo_S11_L001_R1_001.fastq.gz,27.9007,-93.27026667,79.2,5.8,3.6,CTD,Off-target bands,14185,12.83
+28S,Bright Bank,5,Bright-CTD-5.8,2,SH18303-meso-octo,trimmed.1368.12.SH18303.meso.octo_S12_L001_R1_001.fastq.gz,27.9007,-93.27026667,79.2,5.8,3.4,CTD,Off-target bands,11829,26.17
+28S,Bright Bank,6,Bright-CTD-5.8,3,SH18304-meso-octo,trimmed.1368.13.SH18304.meso.octo_S13_L001_R1_001.fastq.gz,27.9007,-93.27026667,79.2,5.8,3.58,CTD,Off-target bands,13593,35.08
+28S,Bright Bank,7,Bright-CTD-23.8,1,SH18305-meso-octo,trimmed.1368.14.SH18305.meso.octo_S14_L001_R1_001.fastq.gz,27.9007,-93.27026667,61.16,23.84,3.54,CTD,Off-target bands,8777,4.1
+28S,Bright Bank,8,Bright-CTD-23.8,2,SH18306-meso-octo,trimmed.1368.15.SH18306.meso.octo_S15_L001_R1_001.fastq.gz,27.9007,-93.27026667,61.16,23.84,3.66,CTD,Off-target bands,10301,2.5
+28S,Bright Bank,9,Bright-CTD-44.7,1,SH18307-meso-octo,trimmed.1368.16.SH18307.meso.octo_S16_L001_R1_001.fastq.gz,27.9007,-93.27026667,40.3,44.7,3.18,CTD,One band,11982,0.1
+28S,Bright Bank,10,Bright-CTD-44.7,2,SH18308-meso-octo,trimmed.1368.17.SH18308.meso.octo_S17_L001_R1_001.fastq.gz,27.9007,-93.27026667,40.3,44.7,3,CTD,Off-target bands,20972,0.04
+28S,Bright Bank,11,Bright-CTD-77.45,1,SH18309-meso-octo,trimmed.1368.18.SH18309.meso.octo_S18_L001_R1_001.fastq.gz,27.9007,-93.27026667,7.55,77.45,3.02,CTD,Off-target bands,9355,0.01
+28S,Bright Bank,12,Bright-CTD-77.45,2,SH18310-meso-octo,trimmed.1368.19.SH18310.meso.octo_S19_L001_R1_001.fastq.gz,27.9007,-93.27026667,7.55,77.45,2.28,CTD,Off-target bands,15127,0
+28S,Bright Bank,,Bright-20210811-Blank,,SH18311-meso-octo,trimmed.1368.20.SH18311.meso.octo_S20_L001_R1_001.fastq.gz,,,,,3.2,Negative,no band,3117,100
+28S,Stetson Bank,1,Stetson-55,1,SH18312-meso-octo,trimmed.1368.21.SH18312.meso.octo_S21_L001_R1_001.fastq.gz,28.15707,-94.30292,55,0,0.98,ROV,One band,25679,99.62
+28S,Stetson Bank,2,Stetson-55,2,SH18313-meso-octo,trimmed.1368.22.SH18313.meso.octo_S22_L001_R1_001.fastq.gz,28.15707,-94.30292,55,0,0.82,ROV,One band,22388,98.92
+28S,Stetson Bank,3,Stetson-55,3,SH18314-meso-octo,trimmed.1368.23.SH18314.meso.octo_S23_L001_R1_001.fastq.gz,28.15707,-94.30292,55,0,0.98,ROV,One band,27593,99.81
+28S,Stetson Bank,4,Stetson-55,4,SH18315-meso-octo,trimmed.1368.24.SH18315.meso.octo_S24_L001_R1_001.fastq.gz,28.15707,-94.30292,55,0,0.64,ROV,One band,26416,97.99
+28S,Stetson Bank,,Stetson-20210812-Blank,,SH18328-meso-octo,trimmed.1368.25.SH18328.meso.octo_S25_L001_R1_001.fastq.gz,,,,,3.32,Negative,no band,2499,75
+28S,Bright Bank,1,Bright-67,1,SH18353-meso-octo,trimmed.1368.26.SH18353.meso.octo_S26_L001_R1_001.fastq.gz,27.89839,-93.27212,67,0,1.04,ROV,Off-target bands,5790,22.07
+28S,Bright Bank,2,Bright-67,2,SH18354-meso-octo,trimmed.1368.27.SH18354.meso.octo_S27_L001_R1_001.fastq.gz,27.89839,-93.27212,67,0,1.02,ROV,One band,4471,61.08
+28S,Bright Bank,3,Bright-67,3,SH18355-meso-octo,trimmed.1368.28.SH18355.meso.octo_S28_L001_R1_001.fastq.gz,27.89839,-93.27212,67,0,0.98,ROV,Off-target bands,5800,75.27
+28S,Bright Bank,7,Bright-111,1,SH18357-meso-octo,trimmed.1368.29.SH18357.meso.octo_S29_L001_R1_001.fastq.gz,27.8951,-93.26662,111,0,0.7,ROV,Off-target bands,5081,81.7
+28S,Bright Bank,8,Bright-111,2,SH18358-meso-octo,trimmed.1368.30.SH18358.meso.octo_S30_L001_R1_001.fastq.gz,27.8951,-93.26662,111,0,0.62,ROV,One band,10358,92.66
+28S,Bright Bank,,Bright-20210814-Blank,,SH18371-meso-octo,trimmed.1368.31.SH18371.meso.octo_S31_L001_R1_001.fastq.gz,,,,,3.28,Negative,no band,2293,46.15
+28S,NA,NA,Mesophotic-PCR-NTC,,NTC-meso,trimmed.1368.32.NTC.meso.octo_S32_L001_R1_001.fastq.gz,,,,,NA,NTC,no band,,39.73
+28S,Viosca Knoll,4,VK826-474,1,SH18180-deep-octo,trimmed.1368.33.SH18180.deep.octo_S33_L001_R1_001.fastq.gz,29.15774,-88.01561,474,0,1.12,ROV,Faint band,4187,15.53
+28S,Viosca Knoll,5,VK826-474,2,SH18181-deep-octo,trimmed.1368.34.SH18181.deep.octo_S34_L001_R1_001.fastq.gz,29.15774,-88.01561,474,0,1.04,ROV,One band,9265,0.19
+28S,Viosca Knoll,6,VK826-474,3,SH18182-deep-octo,trimmed.1368.35.SH18182.deep.octo_S35_L001_R1_001.fastq.gz,29.15774,-88.01561,474,0,0.98,ROV,Faint band,2336,82.63
+28S,Viosca Knoll,1,VK826-CTD-1.058,1,SH18196-deep-octo,trimmed.1368.36.SH18196.deep.octo_S36_L001_R1_001.fastq.gz,29.15801667,-88.01568333,468.28,1.058,4,CTD,One band,5722,74.65
+28S,Viosca Knoll,2,VK826-CTD-1.058,2,SH18197-deep-octo,trimmed.1368.37.SH18197.deep.octo_S37_L001_R1_001.fastq.gz,29.15801667,-88.01568333,468.28,1.058,5.4,CTD,Off-target bands,4236,66.31
+28S,Viosca Knoll,3,VK826-CTD-1.058,3,SH18198-deep-octo,trimmed.1368.38.SH18198.deep.octo_S38_L001_R1_001.fastq.gz,29.15801667,-88.01568333,468.28,1.058,5.3,CTD,One band,3664,15.72
+28S,Viosca Knoll,4,VK826-CTD-5.214,1,SH18199-deep-octo,trimmed.1368.39.SH18199.deep.octo_S39_L001_R1_001.fastq.gz,29.15801667,-88.01568333,463.49,5.214,5.4,CTD,Off-target bands,4939,30.64
+28S,Viosca Knoll,5,VK826-CTD-5.214,2,SH18200-deep-octo,trimmed.1368.40.SH18200.deep.octo_S40_L001_R1_001.fastq.gz,29.15801667,-88.01568333,463.49,5.214,4.5,CTD,One band,4835,46.17
+28S,Viosca Knoll,6,VK826-CTD-5.214,3,SH18201-deep-octo,trimmed.1368.41.SH18201.deep.octo_S41_L001_R1_001.fastq.gz,29.15801667,-88.01568333,463.49,5.214,5.8,CTD,Off-target bands,7998,76.86
+28S,Viosca Knoll,7,VK826-CTD-9.577,1,SH18202-deep-octo,trimmed.1368.42.SH18202.deep.octo_S42_L001_R1_001.fastq.gz,29.15801667,-88.01568333,458.17,9.577,4.1,CTD,Faint band,3679,0.02
+28S,Viosca Knoll,8,VK826-CTD-9.577,2,SH18203-deep-octo,trimmed.1368.43.SH18203.deep.octo_S43_L001_R1_001.fastq.gz,29.15801667,-88.01568333,458.17,9.577,5.5,CTD,One band,4107,0.07
+28S,Viosca Knoll,9,VK826-CTD-20.961,1,SH18204-deep-octo,trimmed.1368.44.SH18204.deep.octo_S44_L001_R1_001.fastq.gz,29.15801667,-88.01568333,447.67,20.961,4.9,CTD,Faint band,2087,0.18
+28S,Viosca Knoll,10,VK826-CTD-20.961,2,SH18205-deep-octo,trimmed.1368.45.SH18205.deep.octo_S45_L001_R1_001.fastq.gz,29.15801667,-88.01568333,447.67,20.961,4.3,CTD,Faint band,1811,1.6
+28S,Viosca Knoll,,VK826-20210806-Blank,,SH18206-deep-octo,trimmed.1368.46.SH18206.deep.octo_S46_L001_R1_001.fastq.gz,,,,,4.6,Negative,no band,2130,0
+28S,Green Canyon,1,GC354-527,1,SH18376-deep-octo,trimmed.1368.47.SH18376.deep.octo_S47_L001_R1_001.fastq.gz,27.59736,-91.82671,527,0,0.96,ROV,One band,6630,98.67
+28S,Green Canyon,2,GC354-527,2,SH18377-deep-octo,trimmed.1368.48.SH18377.deep.octo_S48_L001_R1_001.fastq.gz,27.59736,-91.82671,527,0,0.8,ROV,One band,7607,96.94
+28S,Green Canyon,3,GC354-527,3,SH18378-deep-octo,trimmed.1368.49.SH18378.deep.octo_S49_L001_R1_001.fastq.gz,27.59736,-91.82671,527,0,0.7,ROV,Faint band,3496,98.7
+28S,Green Canyon,4,GC354-527,4,SH18379-deep-octo,trimmed.1368.50.SH18379.deep.octo_S50_L001_R1_001.fastq.gz,27.59736,-91.82671,527,0,0.98,ROV,Faint band,3141,88.95
+28S,Green Canyon,5,GC354-531,1,SH18380-deep-octo,trimmed.1368.51.SH18380.deep.octo_S51_L001_R1_001.fastq.gz,27.59855,-91.82558,531,0,0.9,ROV,One band,9322,99.71
+28S,Green Canyon,6,GC354-531,2,SH18381-deep-octo,trimmed.1368.52.SH18381.deep.octo_S52_L001_R1_001.fastq.gz,27.59855,-91.82558,531,0,0.9,ROV,One band,12917,99.61
+28S,Green Canyon,,GC354-20210815-Blank,,SH18382-deep-octo,trimmed.1368.53.SH18382.deep.octo_S53_L001_R1_001.fastq.gz,,,,,1.06,Negative,no band,2560,80
+28S,NA,NA,Deep-PCR-NTC,,NTC-deep,trimmed.1368.54.NTC.deep.octo_S54_L001_R1_001.fastq.gz,,,,,NA,NTC,no band,,0
+,,,RUSH-NTC-1,,NTC-RUSH-1,trimmed.1368.NTC1_S97_L001_R1_001.fastq.gz,,,,,NA,NTC,NA,,NA
+,,,RUSH-NTC-1,,NTC-RUSH-2,trimmed.1368.NTC2_S98_L001_R1_001.fastq.gz,,,,,NA,NTC,NA,,NA
